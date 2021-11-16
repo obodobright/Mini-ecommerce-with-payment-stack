@@ -6,9 +6,7 @@ import { AuthProvider } from "./firebaseAuthPractice/component/context/autthProv
 
 ReactDOM.render(
   <React.StrictMode>
-    <AuthProvider>
-      <App />
-    </AuthProvider>
+    <App />
   </React.StrictMode>,
   document.getElementById("root")
 );

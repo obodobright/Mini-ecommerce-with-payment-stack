@@ -59,7 +59,7 @@ const ProductDetail = () => {
               <Title>{data.title}</Title>
               <Description>{data.description}</Description>
               <Info>
-                <Category>Category:{data.category} </Category>
+                <Category>{data.category.toUpperCase()} </Category>
                 <Rating>Rating: {data.rating.rate}</Rating>
               </Info>
               <Price
