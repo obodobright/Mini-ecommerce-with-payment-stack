@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mini-ecommerce-with-payment-stack/static/css/main.a646bf2d.chunk.css",
+    "main.js": "/Mini-ecommerce-with-payment-stack/static/js/main.172a7919.chunk.js",
+    "main.js.map": "/Mini-ecommerce-with-payment-stack/static/js/main.172a7919.chunk.js.map",
+    "runtime-main.js": "/Mini-ecommerce-with-payment-stack/static/js/runtime-main.776de4ec.js",
+    "runtime-main.js.map": "/Mini-ecommerce-with-payment-stack/static/js/runtime-main.776de4ec.js.map",
+    "static/js/2.d4c0b696.chunk.js": "/Mini-ecommerce-with-payment-stack/static/js/2.d4c0b696.chunk.js",
+    "static/js/2.d4c0b696.chunk.js.map": "/Mini-ecommerce-with-payment-stack/static/js/2.d4c0b696.chunk.js.map",
+    "index.html": "/Mini-ecommerce-with-payment-stack/index.html",
+    "static/css/main.a646bf2d.chunk.css.map": "/Mini-ecommerce-with-payment-stack/static/css/main.a646bf2d.chunk.css.map",
+    "static/js/2.d4c0b696.chunk.js.LICENSE.txt": "/Mini-ecommerce-with-payment-stack/static/js/2.d4c0b696.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.776de4ec.js",
+    "static/js/2.d4c0b696.chunk.js",
+    "static/css/main.a646bf2d.chunk.css",
+    "static/js/main.172a7919.chunk.js"
+  ]
+}
